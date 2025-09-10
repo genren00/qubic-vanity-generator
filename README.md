@@ -1,6 +1,6 @@
 
 
-##Qubic Vanity Address Generator
+## Qubic Vanity Address Generator
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://python.org)
 [![Node.js](https://img.shields.io/badge/Node.js-16%2B-green.svg)](https://nodejs.org)
