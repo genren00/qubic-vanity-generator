@@ -240,18 +240,3 @@ If you encounter any issues:
 Made with ❤️ by the Qubic community
 ```
 
-This README provides:
-1. Clear installation and usage instructions
-2. Performance benchmarks with visual comparison
-3. Technical explanation of how the speedup is achieved
-4. Code examples for different use cases
-5. Contribution guidelines
-6. Safety disclaimers
-7. Professional formatting with badges and visual elements
-
-The structure makes it easy for users to:
-- Quickly understand the project's value proposition
-- Get started with minimal effort
-- Find advanced usage examples
-- Contribute to the project
-- Understand the technical innovation behind the performance improvement
