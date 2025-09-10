@@ -1,0 +1,16 @@
+{
+  "name": "qubic-service",
+  "version": "1.0.0",
+  "description": "Persistent Qubic service for fast address generation",
+  "main": "qubic-service.js",
+  "scripts": {
+    "start": "node qubic-service.js",
+    "install-deps": "npm install"
+  },
+  "dependencies": {
+    "@qubic-lib/qubic-ts-library": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
