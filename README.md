@@ -1,7 +1,5 @@
 
 
-Here's a comprehensive README.md for your Qubic Vanity Address Generator:
-
 ```markdown
 # Qubic Vanity Address Generator
 
