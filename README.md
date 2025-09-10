@@ -30,7 +30,7 @@ A high-performance Qubic vanity address generator that leverages a persistent No
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/qubic-vanity-generator.git
+git clone https://github.com/genren00/qubic-vanity-generator.git
 cd qubic-vanity-generator
 ```
 
